@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YevaBrand
-- 👀 I’m interested in Front end & Back end development and also Data Security
-- 🌱 I’m currently learning Javascript, React and jsx
+- 👀 I’m interested in solving problems with software engineering
+- 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on any project to help sharpen my skills
 - 📫 Connect with me on linkedin Yeva Alessa 
 - 😎
