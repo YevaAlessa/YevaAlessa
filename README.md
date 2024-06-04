@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YevaBrand
+- 👋 Hi, I’m @YevaAlessa
 - 👀 I’m interested in solving problems with software engineering
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on any project to help sharpen my skills
