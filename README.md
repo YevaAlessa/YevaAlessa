@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YevaAlessa
 - 👀 I’m interested in business optimization processes
-- 🌱 I’m currently an ecommerce manager 
+- 🌱 I’m currently a development economist 
 - 💞️ I’m looking to collaborate on any project to help sharpen my skills
 - 📫 Connect with me on linkedin Yeva Alessa 
 - 😎
